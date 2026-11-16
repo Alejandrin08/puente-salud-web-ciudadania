@@ -4,6 +4,8 @@
 
 Aplicación web responsive (móvil primero) para la **persona** (paciente o cuidador): en qué paso va, cuál es el siguiente, dónde atenderse y qué hacer ante una emergencia. Las instrucciones completas, la arquitectura y los datos están en el [README principal del backend](../puente-salud-backend/README.md).
 
+**En línea:** [puente-salud-web-ciudadania.vercel.app](https://puente-salud-web-ciudadania.vercel.app) (folio `PS081368`, código `246810`). La API está en [gateway-production-bb185c96.up.railway.app](https://gateway-production-bb185c96.up.railway.app/docs).
+
 ## Pantallas
 1. **Bienvenida y consentimiento** (`/bienvenida`): acceso con folio y código de demostración, y aceptación del uso de datos.
 2. **Inicio** (`/`): el arco de 4 pasos y el siguiente paso en lenguaje claro.
