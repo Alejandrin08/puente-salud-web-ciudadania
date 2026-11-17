@@ -30,4 +30,4 @@ npm run test:e2e          # extremo a extremo + accesibilidad (Playwright + axe)
 La primera vez: `npx playwright install chromium`.
 
 ## Despliegue (Vercel)
-Proyecto Vite. Variable `VITE_API_URL` = URL pública del gateway en Railway. `vercel.json` reescribe las rutas a `index.html`. Ver `docs/despliegue.md` en el backend.
+Proyecto Vite. Variable `VITE_API_URL` = URL pública del gateway en Railway. `vercel.json` reescribe las rutas a `index.html`.

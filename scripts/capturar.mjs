@@ -3,7 +3,7 @@ import { chromium } from '@playwright/test'
 import { mkdirSync } from 'node:fs'
 
 const BASE = process.argv[2] ?? 'http://localhost:5173'
-const OUT = process.argv[3] ?? '.impeccable/review'
+const OUT = process.argv[3] ?? 'capturas'
 mkdirSync(OUT, { recursive: true })
 
 const browser = await chromium.launch()
