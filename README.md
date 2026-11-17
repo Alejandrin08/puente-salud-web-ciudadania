@@ -1,10 +1,18 @@
+<p>
+  <img src="assets/gob2025_los_3.png" alt="Gobierno de Jalisco, COECYTJAL e Innovación, Ciencia y Tecnología" height="56" align="left" />
+  <img src="assets/solacyt_.png" alt="SOLACYT, Sociedad Latinoamericana de Ciencia y Tecnología" height="72" align="right" />
+</p>
+<br clear="both" />
+
 <p align="center"><img src="public/logo.svg" alt="Logo de Puente Salud" width="72" /></p>
 
 # Puente Salud · web ciudadanía
 
-Aplicación web responsive (móvil primero) para la **persona** (paciente o cuidador): en qué paso va, cuál es el siguiente, dónde atenderse y qué hacer ante una emergencia. Las instrucciones completas, la arquitectura y los datos están en el [README principal del backend](../puente-salud-backend/README.md).
+Aplicación web responsive (móvil primero) para la **persona** (paciente o cuidador): en qué paso va, cuál es el siguiente, dónde atenderse y qué hacer ante una emergencia. Las instrucciones completas, la arquitectura y los datos están en el [README principal del backend](https://github.com/Alejandrin08/puente-salud-backend#readme).
 
 **En línea:** [puente-salud-web-ciudadania.vercel.app](https://puente-salud-web-ciudadania.vercel.app) (folio `PS081368`, código `246810`). La API está en [gateway-production-bb185c96.up.railway.app](https://gateway-production-bb185c96.up.railway.app/docs).
+
+Investigación que sustenta el proyecto: [`docs/investigacion.md`](docs/investigacion.md).
 
 ## Pantallas
 1. **Bienvenida y consentimiento** (`/bienvenida`): acceso con folio y código de demostración, y aceptación del uso de datos.
